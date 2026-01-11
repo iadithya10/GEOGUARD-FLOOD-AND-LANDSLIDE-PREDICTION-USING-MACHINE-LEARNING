@@ -1,4 +1,4 @@
-# Geoguard-Flood-And-Landslide-Prediction-Using-Machine-Learning:
+# Geoguard-Flood-And-Landslide-Prediction-Using-Machine-Learning
 
 
 Floods and landslides are significant natural disasters that cause extensive damage to infrastructure, the environment, and
